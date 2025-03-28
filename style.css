@@ -106,6 +106,7 @@ button[type="submit"]:hover {
 
 .categories a:hover {
   color: #333;
+  size: 20px;
 }
 
 
