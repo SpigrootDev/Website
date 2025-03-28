@@ -92,6 +92,11 @@ button[type="submit"]:hover {
   justify-content: center;
 }
 
+.categories li:hover{
+  font-size: 20px;
+    transition: font-size 0.6s ease;
+}
+
 .categories li {
   margin: 0 1rem;
 }
@@ -106,7 +111,7 @@ button[type="submit"]:hover {
 
 .categories a:hover {
   color: #333;
-  size: 20px;
+  
 }
 
 
